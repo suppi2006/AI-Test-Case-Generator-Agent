@@ -63,8 +63,7 @@ AI-Test-Case-Generator-Agent/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-└── test_cases.db
+
 ```
 
 ## Installation and Setup
@@ -72,7 +71,7 @@ AI-Test-Case-Generator-Agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/suppi2006/AI-Test-Case-Generator-Agent.git
 cd AI-Test-Case-Generator-Agent
 ```
 
